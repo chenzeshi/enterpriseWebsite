@@ -1,0 +1,15 @@
+
+.main .inner>h3{margin-left:20px;padding:7px 5px;font:bold 24px/95px "宋体";height:95px;background:url(../images/bgsan2.png) no-repeat left;color:#ff7900;}
+.main .inner>span{padding:0 30px;float:right;font:normal  12px/32px "宋体";color:#585858;}
+.main .login{height:340px;border:1px solid #dadada;margin:45px 20px;}
+.main form{width:330px;margin:0 auto;padding-top:30px;}
+.main form dl span{font:normal 12px/44px "宋体";color:#585858;}
+.main form dl input{border:1px solid #c8c8c8;background:#f4f4f4;height:25px;width:320px;}
+.main form dl .chose{width:130px;}
+.main form dl b{font:italic bold 28px/30px "微软雅黑";padding:0 15px;}
+.main form dl a{font:normal 12px/24px "宋体";color:#ff7900;}
+.main form button{margin-top:35px;cursor:pointer;width:144px;height:24px;
+    background:#dcee06;border:1px solid #dadada;border-radius:3px;position:relative;}
+.main form button:after{content:"";position:absolute;width:0;height:0;border:6px solid transparent;
+right:9px;top:6px;border-left-color: #262835;}
+

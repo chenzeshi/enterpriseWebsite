@@ -1,0 +1,12 @@
+.banner{height:278px;background: url(../images/product.jpg) no-repeat center/cover;}
+.main .mainLeft .top{height:215px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+    border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:-5px;left:-19px;}
+.main .cardList div{padding:33px 0;margin-right:40px;border-bottom:1px dashed #dadada;}
+.main .mainRight .top img{float:right;margin-left:35px;}
+.main .mainRight .mid img{float:left;padding:13px;margin:30px 35px 0 0;border:1px solid #dadada;}
+.main .mainRight .bot img{margin:35px 135px 10px;text-align: center;padding:15px;border:1px solid #dadada;}
+.main .mainRight .bot span{font:normal 12px/20px "宋体";color:#585858;}
+.main .mainRight .bot{text-align:center;border-bottom:none;}
+.main .mainRight .bot p{text-align: left;}
+.main .mainRight  .fots{padding-top:30px;}

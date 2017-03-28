@@ -1,0 +1,10 @@
+.banner{height:278px;background: url(../images/techban.jpg) no-repeat center/cover;}
+.main .mainLeft .top{height:245px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+    border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:-5px;left:-19px;}
+.main .mainRight img{padding:4px;border:1px solid #dadada;}
+.main .mainRight .top img{float:left;margin-right:35px;}
+.main .mainRight .bot img{float:right;margin-left:35px;}
+.main .mainRight span{margin-top:-10px;padding:0 30px;float:right;font:normal  12px/32px "宋体";color:#585858;}
+.main .cardList div{padding:33px 0;margin-right:40px;}
+.main .cardList div.top{border-bottom:1px dashed #ccc;}

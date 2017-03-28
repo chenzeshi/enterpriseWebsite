@@ -1,0 +1,25 @@
+.banner{height:278px;background: url(../images/successban.jpg) no-repeat center/cover;}
+.main{background:linear-gradient(to bottom,#9a9a9b,#e1e1e1,#e1e1e1);}
+.main .inner{background:#fff;margin:0 auto;width:960px;position: relative;}
+.main .inner>h3{margin-left:20px;padding:7px 5px;font:bold 24px/95px "宋体";height:95px;background:url(../images/bgsan2.png) no-repeat left;color:#ff7900;}
+.main .inner>span{padding:0 30px;float:right;font:normal  12px/32px "宋体";color:#585858;}
+.main p{padding:35px 20px;font:normal 12px/24px "宋体";color:#585858;}
+.main .map{margin:0 20px 90px;background:#f2f2f2 url("../images/map.png") no-repeat 60px 107px;height:570px;position: relative;}
+.main .map .bot{position:absolute;width:250px;left:40px;bottom:20px;}
+.main .map .bot span{color:#ff7900;}
+.main .map  ul{padding:0 5px;}
+.main .map  ul li{height:24px;display:table-cell;vertical-align:middle;text-align:center;font:normal 12px/24px "宋体";color:#585858;}
+.main .map  ul li em{margin:0 16px;display:inline-block;width:6px;height:6px;border-radius:50%; border:2px solid #fff;}
+.main .map  ul li:nth-child(1) em{border-color: #003300; }
+.main .map  ul li:nth-child(2) em{border-color: #cc0202; }
+.main .map  ul li:nth-child(3) em{border-color:#fe7f00;}
+.main .map .chose{padding:15px 20px;}
+.main .map .box a{display: block;width:19px;height:19px;background:#ff7900;text-align:center;font:normal 14px/19px "宋体";
+position: absolute;top:13px;right:8px;}
+.main .map .box{border:1px solid #cccccc;width:580px;height:310px;left:0;top:0;right:0;bottom:0;margin:auto;position: absolute;padding:0 50px 0 20px;border-radius:3px;background:#fff;}
+.main .map .box h4{height:48px;font:normal 24px/48px "微软雅黑";color:#ff7900;border-bottom:1px solid #ff7900;}
+.main .map img{padding:3px;border:1px solid #e8e8e8;}
+.main .map ol{height:260px;overflow: auto;}
+.main .map ol li{margin:20px 24px 0 0;float:left;display:block;}
+.main .map ol span{display:block;font:bold 14px/36px "微软雅黑";height:36px;}
+.main .map ol li:nth-child(2n){margin-right:0;}

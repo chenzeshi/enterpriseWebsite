@@ -1,0 +1,15 @@
+.banner{height:278px;background: url(../images/newban.jpg) no-repeat center/cover;}
+.main .mainLeft .top{height:160px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+    border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:0;left:-19px;}
+.main .mainRight ul{padding:33px 0;margin-right:40px;}
+.main .mainRight ul li{padding:0 25px;background:url("../images/small.jpg") no-repeat 12px center;color:#585858;height:30px;font:normal 12px/30px "宋体";border-bottom: 1px dashed #ccc;}
+.main .mainRight ul a{color:#585858;}
+.main .mainRight ul i{float:right;color:#888;}
+.main .mainRight ol{float:right;border:1px solid #dddddd;border-radius:4px;margin-right:40px;}
+.main .mainRight ol li{float:left;height:28px;border-right:1px solid #ddd;}
+.main .mainRight ol li:last-child{border-right:none;}
+.main .mainRight ol li a{padding:0 12px;display:block;color:#ff7900;font:normal 14px/28px "宋体";}
+
+
+

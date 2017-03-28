@@ -1,0 +1,38 @@
+/*banner*/
+.banner{height:450px;background: url("../images/banner.jpg") no-repeat center/cover;}
+.banner .inner{position:relative;height:100%;}
+.banner .info{position: absolute;bottom:0;left:0;color:#fff;}
+.banner ul li{position:relative;width:300px;float:left;background:#262835;padding:15px 0 15px 18px;
+    border-right:1px solid #000;border-left:1px solid #51535d;}
+.banner ul li:first-child{border-left:none;}
+.banner ul li:last-child{border-right:none;width:302px;}
+.banner ul li h4{font:normal 13px/24px "微软雅黑";}
+.banner ul li p{font:normal 12px/24px "宋体";}
+.banner ul li a{display:block;width:24px;height:24px;position:absolute;right:20px;top:23px;}
+/*main*/
+.main{background:linear-gradient(to bottom,#9a9a9b,#e1e1e1,#e1e1e1);}
+.main .mainTop{padding:25px 21px;background:#fff;box-shadow:0 2px 10px rgba(0,0,0,.4);}
+.main .mainTop .pic{float:left;}
+.main .mainTop .top img{margin-right:32px;padding:3px;border:1px solid #dfdfdf;}
+.main .mainTop .text{width:650px;float:right;}
+.main .mainTop .text p{color:#585858;padding-top:15px;width:650px;float:right;font:normal 12px/24px "微软雅黑";}
+.main .mainTop .text h3{font:bold 14px/24px "微软雅黑";}
+.main .mainTop .top{border-bottom:1px solid #dedede;padding-bottom:27px;}
+.main .mainTop .bot{padding-top:27px;}
+.main .mainTop .bot img{float:left;padding:2px;border:1px solid #dfdfdf;margin-right:24px;}
+.main .mainTop .bot li{width:280px;float:left;padding-right:35px;}
+.main .mainTop .bot li:last-child{padding-right:0;}
+.main .mainTop .bot h4{padding:5px 0;margin-left:100px;width:192px;font:bold 14px/24px "微软雅黑";color:#333;border-top:3px solid #ff7900;}
+.main .mainTop .bot a{font:normal 12px/24px "宋体";color:#888;}
+.main .mainTop .bot p{font:normal 12px/24px "宋体";color:#585858;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.main .mainTop .bot p a{color:#585858;}
+.main .mainTop .bot li:nth-child(1) p{white-space: normal;}
+.main .mainTop p i{padding:0 8px 0 0;color:#ff7900;}
+.main .mainBot{margin-top:20px;border-top:1px solid #ff7900;padding:25px 21px;background:#fff;}
+.main .mainBot .title h3{float:left;font:bold 13px/36px "微软雅黑";}
+.main .mainBot .title a{float:right;font:normal 12px/36px "宋体";color:#888;padding:0 2px;}
+.main .mainBot ul li{float:left;margin-right:21px;text-align: center;}
+.main .mainBot ul li:last-child{float:left;margin-right:0;}
+.main .mainBot ul li img{border:1px solid #dfdfdf;padding:2px;display: block;}
+.main .mainBot ul li span{color:#4b4b4b;font:bold 12px/24px "微软雅黑"}
+

@@ -1,0 +1,44 @@
+body,h1,h2,h3,h4,h5,h6,dl,dd,dt,ol,ul,a,p,input,textarea{padding:0;margin:0;}
+body{font-family:Arial "微软雅黑";overflow-x:hidden;}
+ul li,ol li{list-style:none;}
+img,input{border:none;vertical-align: top;outline:none;}
+a{text-decoration:none;outline:none;color:#fff;}
+.clearfix:after{content:"200B";display:block;height:0;font-size:0;clear:both;}
+i{font-style:normal;font-family:consolas;color:#666;}
+/*header*/
+.inner{width:960px;margin:0 auto;}
+.header .top{background:#dd7314;height:23px;}
+.header .top ul li{float:left;}
+.header .top ul li i{margin-top:5px;display: block;float:left;width:15px;height:12px;background: url(../images/label.png) no-repeat;}
+.header .top li:nth-of-type(1) i{background-position: 0 -1px;}
+.header .top li:nth-child(2) i{background-position: -15px -1px;}
+.header .top li:nth-child(3) i{background-position: -33px -1px;}
+.header .top li:nth-child(4) i{background-position: -48px -1px;}
+.header .top li:nth-child(5) i{background-position: -66px -1px;}
+.header .top a {font:normal 12px/23px "微软雅黑";padding:0 10px;}
+.header .top span{float:right;font:normal 12px/23px Arial;color:#fff;}
+    /*header mid*/
+.header .mid{height:90px;background:#f6901b;overflow: hidden;}
+.header .mid .logo{float:left;}
+.header .mid .logo img{float:left;padding:18px 24px 0 24px;}
+.header .mid .logo h3{float:left;font:bold 30px/90px "微软雅黑";color:#fff;letter-spacing:10px;}
+.header .mid  form{float:right;margin-top:30px;}
+.header .mid input{color:#fff;border-radius:3px;width:290px;height:30px;padding:0 30px;background:rgba(255,255,255,.1) url("../images/fang.jpg") no-repeat 320px 7px;}
+::-webkit-input-placeholder {color:#fff;}
+:-moz-placeholder{color:#fff;}
+::-moz-placeholder{color:#fff;}
+::-ms-input-placeholder {color:#fff;}
+/*header nav*/
+.header .nav{height:34px;background:#262835;}
+.header .nav ol{padding:0 25px;}
+.header .nav li{float:left;height:34px;padding:0 30px;}
+.header .nav li.active{background:#dd7314;}
+.header .nav li.active a{color:#fff;}
+.header .nav a{color:#dd7314;display:block;font:normal 13px/34px "微软雅黑";}
+
+/*footer*/
+.footer{height:207px;background:#4b4b4b;border-top:1px solid #222;}
+.footer ul{text-align: center;height:66px;border-bottom:1px solid #373737;}
+.footer ul li{display:inline-block;margin:0 15px;}
+.footer ul li a{font:normal 12px/66px "宋体";color:#dad9d9;}
+.footer p{padding:20px 0;text-align:center;font:normal 12px/24px "宋体";color:#a8a8a8;border-top:1px solid #6c6c6c;}

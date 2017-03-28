@@ -1,0 +1,21 @@
+.banner{height:278px;background: url(../images/talentban.jpg) no-repeat center/cover;}
+.main .mainLeft .top{height:160px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+    border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:0;left:-19px;}
+.main .mainRight span{margin-top:-10px;padding:0 30px;float:right;font:normal  12px/32px "宋体";color:#585858;}
+.main form dl{margin-top:20px;border-top:1px solid #c8c8c8;}
+.main form dd{margin-top:20px;color:#585858;font:normal 12px/26px "宋体";}
+.main form dd input{background:#f4f4f4;border:1px solid #e5e5e5;border-top-color: #c8c8c8;}
+.main form dd i{color:#ff7900;padding:0 7px;}
+.main form dd .radio{width:18px;height:18px;margin:5px 10px;}
+.main form dd input.text{width:111px;height:26px;}
+.main form select{width:111px;height:26px;}
+.main form .move{margin-left:24px;}
+.main form .last{margin-left:92px;}
+.main form dd .fr{padding-left:355px;}
+.main form .sub{cursor:pointer;width:144px;height:24px;
+    background:#dcee06;border:1px solid #dadada;border-radius:3px;position:relative;}
+.main form .sub:after{content:"";position:absolute;width:0;height:0;border:6px solid transparent;
+    right:9px;top:6px;border-left-color: #262835;}
+.main form textarea{vertical-align:top;resize:none;width:540px;height:65px;background:#f4f4f4;border:1px solid #e5e5e5;border-top-color: #c8c8c8;}
+.main .cardList dd p{margin-right:40px;float:left;line-height: 26px;height:30px;overflow: hidden;}

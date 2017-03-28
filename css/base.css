@@ -1,0 +1,16 @@
+.main{background:linear-gradient(to bottom,#9a9a9b,#e1e1e1,#e1e1e1);}
+.main .inner{background:#fff;padding:35px 0;margin:0 auto;width:960px;position: relative;}
+.main .mainLeft{width:158px;float:left;text-align: center;}
+.main .mainLeft  ul{text-align:left;padding-bottom:20px;position: absolute;top:0;left:-19px;width:177px;background:#262835;}
+.main .mainLeft  ul li{padding-left:17px;color:#fff;height:29px;font:normal 12px/29px "宋体";border-bottom:1px solid #323948;}
+.main .mainLeft ul li:first-child{height:57px;background:#f6901b url("../images/list.png") no-repeat 135px center;font:normal 16px/57px "宋体";
+    border-top:2px solid #dd7314;border-bottom:1px solid #fac04f;}
+.main .mainRight{float:right;width:774px;}
+.main .mainRight h3{font:bold 24px/95px "宋体";height:95px;background:url(../images/bgsan.png) no-repeat left;
+    padding:0 5px;color:#ff7900;}
+.main .mainLeft .pic{display: inline-block;margin:35px 0;}
+.main .mainLeft .pic img{border:1px solid #dadada;padding:3px;}
+.main .mainLeft .pic span{font:normal 12px/24px "宋体";color:#585858;}
+.main .cardList h4{font:bold 14px/24px "微软雅黑";color:#dd7314;padding-bottom:20px;}
+.main .cardList p{font:normal  12px/20px "宋体";color:#585858;}
+.main .mainRight span{margin-top:-10px;padding:0 30px;float:right;font:normal  12px/32px "宋体";color:#585858;}

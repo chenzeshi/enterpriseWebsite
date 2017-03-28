@@ -1,0 +1,20 @@
+.banner{height:278px;background: url(../images/aboutbanner.jpg) no-repeat center/cover;}
+.main{background:linear-gradient(to bottom,#9a9a9b,#e1e1e1,#e1e1e1);}
+.main .inner{background:#fff;padding:35px 0;margin:0 auto;width:960px;position: relative;}
+.main .mainLeft{width:158px;float:left;text-align: center;}
+.main .mainLeft .top{height:185px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:-5px;left:-19px;}
+.main .mainLeft  ul{text-align:left;padding-bottom:20px;position: absolute;top:0;left:-19px;width:177px;background:#262835;}
+.main .mainLeft  ul li{padding-left:17px;color:#fff;height:29px;font:normal 12px/29px "宋体";border-bottom:1px solid #323948;}
+.main .mainLeft ul li:first-child{height:57px;background:#f6901b url("../images/list.png") no-repeat 135px center;font:normal 16px/57px "宋体";
+border-top:2px solid #dd7314;border-bottom:1px solid #fac04f;}
+.main .mainLeft .pic{display: inline-block;margin:35px 0;}
+.main .mainLeft .pic img{border:1px solid #dadada;padding:3px;}
+.main .mainRight{float:right;width:774px;}
+.main .mainRight h3{font:bold 24px/95px "宋体";height:95px;background:url(../images/bgsan.png) no-repeat left;
+padding:0 5px;color:#ff7900;}
+.main .mainRight p{font:normal 12px/20px "宋体";color:#585858;padding:30px 0;margin-right:50px;border-bottom: 1px dashed #ccc;}
+.main .mainRight img{float:right;margin:30px 50px;padding:4px;border:1px solid #dadada;}
+.main .mainRight span{font:italic 14px/24px "宋体";color:#666;}
+.main .mainRight h4{font:bold 16px/24px "宋体";color:#dd7314;padding:40px 0 10px 0;}

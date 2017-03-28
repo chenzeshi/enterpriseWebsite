@@ -1,0 +1,8 @@
+.banner{height:278px;background: url(../images/bancon.jpg) no-repeat center/cover;}
+.main .mainLeft .top{height:250px;background:#eeedec;position: relative;}
+.main .mainLeft .top:after{content: "";position: absolute;width:0;height:0;border:10px solid transparent;
+    border-right-color: #5c4e45;border-top-color: #5c4e45;bottom:0;left:-19px;}
+.main .mainRight img{border:1px solid #dadada;padding:4px;margin:42px 0;}
+.main .mainRight h4{padding-top:40px;}
+.main .mainRight p{padding-bottom:25px;border-bottom:1px dashed #ccc;}
+.main .mainRight .info{padding:0 20px;}
